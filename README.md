@@ -45,8 +45,7 @@
 
 
 ## Output:
-![Screenshot 2024-12-04 103220](https://github.com/user-attachments/assets/47880868-0818-48c2-abbe-0f343b0e6cb5)
-![Screenshot (41)](https://github.com/user-attachments/assets/b54eb067-8ef0-460d-abd3-d760352edb63)
+![image](https://github.com/user-attachments/assets/8772a238-e154-4b31-a998-628cb7b296f7)
 
 ### Name:ARAVIND G
 ### Register Number:212224240014
